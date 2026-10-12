@@ -1,0 +1,149 @@
+# ID	English   22 = battle messages. {ATK} = attacker name, {TGT} = target name, {N} = damage. Each attack is a set of 4: the swing, then normal / critical / weak result.
+22:000	The Kusanagi Sword roared!
+22:001	Dealt {N} damage to {TGT}!
+22:002	A critical hit!|Dealt {N} damage to {TGT}!
+22:003	But it didn't land cleanly!|Dealt {N} damage to {TGT}!
+22:004	The Sword of Power flashed!
+22:005	Dealt {N} damage to {TGT}!
+22:006	Its full power burst forth!|Dealt {N} damage to {TGT}!
+22:007	But its power wasn't unleashed!|Dealt {N} damage to {TGT}!
+22:008	{ATK} pulled the trigger!|The bolt whistled through the air!
+22:009	The bolt pierced {TGT}!|{N} damage!
+22:010	The bolt hit {TGT}'s weak spot!|{N} damage!
+22:011	The bolt only grazed it!|{N} damage to {TGT}!
+22:012	{ATK} pulled the trigger!|The bolt flew, spitting fire!
+22:013	The bolt pierced {TGT}!|{N} damage!
+22:014	The bolt ran {TGT} through!|{N} damage!
+22:015	The bolt only grazed it!|{N} damage to {TGT}!
+22:016	{ATK} threw the javelin!|It flew with great force!
+22:017	The javelin pierced {TGT}!|{N} damage!
+22:018	The javelin skewered {TGT}!|{N} damage!
+22:019	The javelin wounded {TGT}'s leg!|{N} damage!
+22:020	{ATK} pulled the trigger!|The muzzle spat fire!
+22:021	{TGT} reeled back!|{N} damage!
+22:022	A direct hit on {TGT}'s weak spot!|{N} damage!
+22:023	{TGT} dodged quickly!|But took {N} damage!
+22:024	{ATK} pulled the trigger!|The muzzle roared!
+22:025	{TGT} shook violently!|{N} damage!
+22:026	Every round hit!|{N} damage to {TGT}!
+22:027	{TGT} ducked!|{N} damage!
+22:028	{ATK} fired a rocket!|It soared through the air!
+22:029	{TGT} took a direct hit!|{N} damage!
+22:030	An explosion went off above {TGT}!|{N} damage!
+22:031	It was nearly a dud!|{N} damage to {TGT}!
+22:032	{ATK} pulled the trigger!|The flamethrower spewed fire!
+22:033	{TGT} was engulfed in flames!|{N} damage!
+22:034	{TGT} went up in flames!|The fire did {N} damage!
+22:035	The flames died out midway!|{N} damage!
+22:036	{ATK} swung the stick!
+22:037	{TGT} was struck!|{N} damage!
+22:038	A direct hit on {TGT}'s weak spot!|{N} damage!
+22:039	It hit {TGT}!|{N} damage!
+22:040	{ATK}'s knife flashed!
+22:041	The knife slashed {TGT}!|{N} damage!
+22:042	It stabbed into {TGT}'s weak spot!|{N} damage!
+22:043	{TGT} was tough!|{N} damage!
+22:044	{ATK} swung the steel pipe!
+22:045	{TGT} was struck!|{N} damage!
+22:046	A direct hit on {TGT}'s weak spot!|{N} damage!
+22:047	It hit {TGT}!|{N} damage!
+22:048	{ATK} slashed!
+22:049	It connected!|{N} damage to {TGT}!
+22:050	A deadly blow!|Dealt {N} damage to {TGT}!
+22:051	It went wide!|Dealt {N} damage to {TGT}!
+22:052	{ATK} brought down the axe!
+22:053	The axe bit into {TGT}!|{N} damage!
+22:054	The axe cut into a weak spot!|{N} damage to {TGT}!
+22:055	The axe swung wide!|{N} damage to {TGT}!
+22:056	{ATK} swung the laser knife!|The laser flashed!
+22:057	The laser sliced {TGT}!|{N} damage!
+22:058	The laser stabbed {TGT}!|{N} damage!
+22:059	The laser grazed {TGT}!|{N} damage!
+22:060	{ATK} swung a club!
+22:061	{TGT} took {N} damage!
+22:062	{TGT} took a direct hit!|{N} damage!
+22:063	{TGT} dodged quickly!|But took {N} damage!
+22:064	{ATK} swung a sword!
+22:065	{TGT} took {N} damage!
+22:066	{TGT} was slashed!|{N} damage!
+22:067	{TGT} blocked it well!|But took {N} damage!
+22:068	{ATK} spat venom!
+22:069	{TGT} writhed in agony!|{N} damage!
+22:070	{TGT} was drenched in poison!|{N} damage!
+22:071	{TGT} dodged!|But took {N} damage!
+22:072	{ATK} breathed fire!
+22:073	{TGT} took it head-on!|{N} damage!
+22:074	{TGT} went up in flames!|{N} damage!
+22:075	{TGT} dove for cover!|But took {N} damage!
+22:076	{ATK} threw an iron ball!
+22:077	{TGT} was hit in the body!|{N} damage!
+22:078	{TGT} was hit in the head!|{N} damage!
+22:079	{TGT} dodged quickly!|But took {N} damage!
+22:080	{ATK} threw a blade!
+22:081	{TGT} was wounded!|{N} damage!
+22:082	{TGT} was slashed!|{N} damage!
+22:083	It cut {TGT}'s cheek!|{N} damage!
+22:084	{ATK} threw dynamite!
+22:085	It exploded at {TGT}'s feet!|{N} damage!
+22:086	It exploded on {TGT}'s chest!|{N} damage!
+22:087	It was a small explosion!|But it still did {N} damage!
+22:088	{ATK} scattered wing dust!
+22:089	{TGT} is coughing!|{N} damage!
+22:090	{TGT} breathed it in!|{N} damage!
+22:091	{TGT} held their breath!|But took {N} damage!
+22:092	{ATK} exploded!
+22:093	{TGT} was caught in the blast!|{N} damage!
+22:094	{TGT} took a direct hit!|{N} damage!
+22:095	{TGT} was at the edge of the blast!|But took {N} damage!
+22:096	{ATK} hurled a rock!
+22:097	{TGT} was hit in the body!|{N} damage!
+22:098	{TGT} was hit in the head!|{N} damage!
+22:099	It bounced at {TGT}'s feet!|But it still did {N} damage!
+22:100	{ATK} focused their mind!
+22:101	{TGT} staggered!|{N} damage!
+22:102	{TGT} collapsed on the spot!|{N} damage!
+22:103	{TGT} resisted!|But took {N} damage!
+22:104	{ATK} unleashed ESP flames!
+22:105	{TGT} was bathed in flames!|{N} damage!
+22:106	{TGT} was engulfed in flames!|{N} damage!
+22:107	{TGT} repelled the flames!|But took {N} damage!
+22:108	{ATK} unleashed a shockwave!
+22:109	{TGT} staggered!|{N} damage!
+22:110	{TGT} was sent flying!|{N} damage!
+22:111	{TGT} stood firm!|But took {N} damage!
+22:112	{ATK} hurled a grenade!
+22:113	It exploded at {TGT}'s feet!|{N} damage!
+22:114	It exploded on {TGT}'s weak spot!|{N} damage!
+22:115	{N} damage to {TGT}!
+22:116	{ATK} attacked bare-handed!
+22:117	Punched {TGT}!|{N} damage!
+22:118	Knocked {TGT} down!|{N} damage!
+22:119	Barely touched {TGT}!|{N} damage!
+22:120	{ATK} attacked {TGT}!
+22:121	{TGT} took {N} damage!
+22:122	A hit on a weak spot!|{TGT} took {N} damage!
+22:123	{TGT} took {N} damage!
+22:124	{ATK} fired a laser!
+22:125	The laser hit {TGT}!|{N} damage!
+22:126	The laser scorched {TGT}!|{N} damage!
+22:127	The laser was weak!|{N} damage to {TGT}!
+22:128	{ATK} threw a ring of fire!
+22:129	{TGT} was cut by the ring!|{N} damage!
+22:130	{TGT} was sliced by the ring!|{N} damage!
+22:131	{TGT} quickly dodged the ring!|But took {N} damage!
+22:132	{ATK} threw demon fire!
+22:133	{TGT} was burned by the flames!|{N} damage!
+22:134	{TGT} took the flames head-on!|{N} damage!
+22:135	{TGT} dodged the flames!|But took {N} damage!
+22:136	{ATK} spat a beam of light!
+22:137	{TGT} was engulfed in light!|{N} damage!
+22:138	The light sent {TGT} flying!|{N} damage!
+22:139	{TGT} ducked!|{N} damage!
+22:140	{ATK} threw a burning rock!
+22:141	It hit {TGT}!|{N} damage!
+22:142	{TGT} took a direct hit from the rock!|{N} damage!
+22:143	{TGT} was showered with sparks!|But took {N} damage!
+22:144	{ATK} breathed crimson flames!
+22:145	{TGT} was bathed in flames!|{N} damage!
+22:146	{TGT} was consumed by flames!|{N} damage!
+22:147	{TGT} quickly dodged the flames!|But took {N} damage!

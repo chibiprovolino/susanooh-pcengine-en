@@ -1,0 +1,171 @@
+# ID	English   Block 0E = inn, shops, tavern, recruitable companions, tavern gossip. "*" starts a new speech line; a leading space continues it. _ / {N} = amount of money.
+0E:000	[06]|*Welcome to the| travelers' inn.[0E]
+0E:001	[06]|*Sorry, but we're not| open right now.[0E]|*You've seen the state| this village is in.[0E]
+0E:002	[06]|*Welcome, welcome.|*Rest and recover| from your travels.[0E]
+0E:003	[06]|*Now, what will it be?|
+0E:004	 A night's stay is {N}.|
+0E:005	»Stay%|»Pass time%|»Save and password%|»Leave%
+0E:006	[06]|*Your HP and WIL will be| fully restored.|
+0E:007	*That will be {N}|in advance.|»Pay%|»Don't pay%
+0E:008	*I couldn't take money|from the savior of|our village.[0E]
+0E:009	||*Good night.|I'll wake you in the morning.[0E]
+0E:010	[06]|*Good morning.|You slept soundly.[0E]
+0E:011	||*Please come again.|We're always glad to see you.[0F]
+0E:012	||*You don't have enough|money. I can't let you stay.[0E]
+0E:013	||*You won't be staying?|That's a shame.[0E]
+0E:014	[06]|*Have a seat and make|yourself comfortable.|That much is free.[0E]
+0E:015	When {TIME} comes,|I'll call you.[0E]
+0E:016	||*Well then, take your time.[0E]
+0E:017	[06]|*Sir, it's the time|you asked for.[0E]
+0E:018	[06]|*.........[0E]|...Hello? Hello?...[0E]
+0E:019	||*Sir, are you all right?[0E]|*You were moaning in|your sleep. Must have had|a bad dream.[0E]
+0E:020	||*Setting out, are you?|Have a safe journey.[0E]
+0E:021	[06]|*By the way... how about|betting {N} on a game?|»Give it a try%|»Not interested%
+0E:022	||*What a pity.[0E]
+0E:023	||*You'll get prize money|based on the stages you clear.|All right, let's begin.[0E]
+0E:024	[06]|*Did you enjoy yourself?|Your prize money is {N}.[0E]
+0E:025	[06]|*What, a betting game?[0E]|*You really want to play?|The stake is {N}.|»Give it a try%|»Not interested%
+0E:026	||*Don't go telling anyone,|all right?[0E]
+0E:027	||*Here we go.[0E]
+0E:028	[06]|*How was it? Fun, huh?|*Your winnings are {N}.[0E]
+0E:029	||*
+0E:030	|*
+0E:031	[06]|*
+0E:032	[06]|*This shop deals in|weapons and armor.[0E]
+0E:033	[06]|*What do you want?|»Buy%|»Sell%|»Equip%|»Leave%
+0E:034	||*Come back again.|And bring plenty of cash.[0F]
+0E:035	[06]|*What'll it be?|»Nothing%
+0E:036	, then?|That'll be {N}.|»Pay%|»Forget it%
+0E:037	||*What, not buying?|Your loss.[0E]
+0E:038	||*There. It's yours.[0E]
+0E:039	||*Not enough money?|You've got some nerve.[0E]
+0E:040	[06]|*What are you selling me?|[0C]Nothing%|
+0E:041	, huh?|If {N} is fine with you,|I'll buy it.|»Sell it%|»Too good to sell%
+0E:042	||*Here's your money.|This is mine now.[0E]
+0E:043	||*What, not selling?|Stingy, aren't you.[0E]
+0E:044	[06]|*Sorry, I can't put|a price on that.[0E]
+0E:045	[06]|*Sorry, that's not for|sale. Pick something else.[0E]
+0E:046	[06]|*We're closed for today.|Come back tomorrow.[0E]
+0E:047	||*Whoa, your bag's full.|If you want to buy,|sell something first.[0E]
+0E:048	||*You can't carry any more.|Buy something else.[0E]
+0E:049	[06]|*None of my business,|but weapons and armor are|useless unless you equip them.|*See ya.[0E]
+0E:050	[06]|*Can I interest you in|some food?|*Buy a lot and I'll give|you a discount.[0E]
+0E:051	[06]|*Sorry, but this village|has no extra food to sell.|Off you go now.[0E]
+0E:052	[06]|*Oh, so you're the one|who saved the village.[0E]
+0E:053	||*I couldn't possibly|take your money.|Take as much as you like.[0E]
+0E:054	||*When you run out of|food, come back again.[0E]
+0E:055	[06]|*How much do you need?|»Nothing%
+0E:056	, is it?|That comes to {N}.|»Buy%|»Don't buy%
+0E:057	[06]|*Thank you kindly.|Come again soon.[0F]
+0E:058	||*Buy something else, then.[0E]
+0E:059	||*Thank you kindly.|Here's your food.[0E]
+0E:060	||*Oh dear, sir, that won't do.|You don't have enough money.[0E]
+0E:061	*Buy something cheaper.[0E]
+0E:062	[06]|*We're just closing.|Sorry, but please come|back tomorrow.[0E]
+0E:063	This amount is just|about right.
+0E:064	This one sells well|around here.
+0E:065	Take extra when you're|going a long way.
+0E:066	You're buying a lot,|so I'll give you a discount.
+0E:067	No matter how much you buy,|you can only carry|255 slices.
+0E:068	[06]|*Welcome.|
+0E:069	 This is the town bar.[0E]
+0E:070	 This is the village tavern.[0E]
+0E:071	||*The cover charge is {N}.|»Pay%|»Don't pay%
+0E:072	||*Hmph! No money, no|business. Get out.[0E]
+0E:073	||*Thank you.[0E]
+0E:074	||*Please make yourself|at home.[0E]
+0E:075	[06]|*Who should I talk to?|»Leave%
+0E:076	[06]|*Leaving already?|»Stay%|»Leave%
+0E:077	[06]||*Thank you very much.|Please come again.[0F]
+0E:078	|»Hire%|»Don't hire%
+0E:079	||*You didn't have enough money.[0E]
+0E:080	 joined the party.[0E]
+0E:081	[06]|*Which companion will|you swap out?|»Don't swap%
+0E:082	[06]|*There was no one there.[0E]
+0E:083	|»Buy a drink%|»Don't buy%
+0E:084	 with...|Swap them?|»Don't swap%|»Swap%
+0E:085	*Thanks to you, I was able|to reopen my shop.[0E]
+0E:086	After years of training,|I'm sure of my strength.|For {N}, how about|hiring me?
+0E:087	I've given up training.|Go find someone else.[0E]
+0E:088	I'm not strong, but I can|use a little ESP. I could|protect you for {N}.|How about it?
+0E:089	I'm really busy right now.|Maybe some other time.[0E]
+0E:090	I'm not too keen on it, but|if you insist, I'll join|you for {N}.
+0E:091	Join you? No way.|I refuse.[0E]
+0E:092	Offensive ESP is my|specialty. If you want|to take me along,|it'll cost {N}.
+0E:093	I suppose you don't need me.|Safe travels, then.[0E]
+0E:094	I can use defensive ESP.|Give me {N}, and|I'll join you.
+0E:095	I can no longer use ESP.|I can't help you.[0E]
+0E:096	Don't look down on me just|'cause I'm a kid. Take me|along and I'll be useful.|{N} is cheap, right?
+0E:097	Fighting demon beasts?|No way! I've got a real job!
+0E:098	Leave the swordplay to me.|Cover {N} of my|bar tab, and I'll join you.
+0E:099	I'll stay here. You'll be|fine without me, I'm sure.[0E]
+0E:100	My strength is no joke.|You won't regret hiring me.|{N} is a bargain.
+0E:101	I just got married.|Can't do anything risky.[0E]
+0E:102	I'm old and frail, but I|take pride in my ESP.|For {N}, I shall|protect you.
+0E:103	I'm just an old man, as you|can see. Please leave me be.[0E]
+0E:104	I've mastered nearly every|kind of ESP. For {N},|I'll fight alongside you.
+0E:105	Don't disturb my meditation.|I want to be alone with|my thoughts.[0E]
+0E:106	I was born to fight. I can|use both strength and ESP.|For {N}, I'll lend|you my power.
+0E:107	I'm a lone wolf.|I don't join anyone.[0E]
+0E:109	Always keep an eye on|your food.
+0E:110	Plenty of people have starved|after running out of food.|Always watch how much|you have left.
+0E:112	Press SELECT to change|the text speed.
+0E:113	Press SELECT to change|the text speed.
+0E:115	Check every entrance!
+0E:116	You can go inside some of|the houses in towns and|villages. If you see an|entrance, always try going in!
+0E:118	See? People are saying|different things now.
+0E:119	What people say changes|over time. So whenever|something happens, go|and talk to everyone|again.
+0E:121	I'm training my spirit.|I want to become|like "Saint Mumyo."
+0E:122	I'm training my spirit.
+0E:123	Do you know about the|"Whispering Stone"? Pay|me {N} and I'll tell you!
+0E:124	A man named Susa used the|"Whispering Stone" to defeat|the Beast Demon King.
+0E:125	They say the "Whispering|Stone" lets you understand|what demon beasts are saying!
+0E:126	I've come by amazing news|about the Beast Demon King...|If you'd donate {N},|I wouldn't mind telling you.
+0E:127	The Beast Demon King has|fallen! They say it was a|young man calling himself|Susa who did it!
+0E:128	It seems the Beast Demon|King can split into copies.|That's his trump card,|I hear.
+0E:130	The temple seems to have|vanished!
+0E:131	Did you know? Out west, that|evil cult's all the rage.
+0E:133	The desert's crawling with|scorpions.
+0E:134	The desert's crawling with|scorpions.
+0E:136	Ugh! My head hurts.
+0E:137	The cult's temple is full|of traps. I nearly got|myself killed.
+0E:139	Did I drink too much?
+0E:140	They say there are lots of|scorpions in the north of|the desert. It's safer|to use an airplane.
+0E:151	Found the weapon shop yet?
+0E:152	This place used to be a|weapon shop. ▼|But the old man who ran it|was a crank, and he moved|off to the east.
+0E:154	Use the "Drawbridge Key."
+0E:155	They say some old man has|the "Drawbridge Key."
+0E:157	I've come from "Tech City"|to look for the captain.
+0E:158	They say the captain lives|near here...?
+0E:160	The guy who got the|"night-vision scope" is|called Susa.
+0E:161	They say Kuwahara knows|about the "night-vision|scope."
+0E:162	I've got some hot news.|Buy me {N} in drinks!
+0E:163	Rumor has it the Beast Demon|King captured a woman and|handed her over to Susano Oh.|They say her name is|Yukishiro.
+0E:164	I heard that once you land a|blow on the Beast Demon King,|he splits into copies.
+0E:166	Looks like there was some|trouble in "Tugboat Town."
+0E:167	Go past the Beast Demon|King's castle and head west,|and you'll reach|"Tugboat Town."
+0E:171	Wouldn't you like to hear|about an interesting item?|I'll tell you for {N}.
+0E:172	They say a HuCard can be|used to pass the time at the inn.
+0E:173	They say there's a mysterious|item called a HuCard.
+0E:175	You've solved many mysteries,|haven't you.
+0E:176	They say the Sea Castle holds|a mystery.
+0E:178	A guy called Uryuu headed|west.
+0E:179	A guy called Uryuu borrowed|a ship and headed south.
+0E:181	Leave me alone, I'm drunk!
+0E:182	Go south from this town and|you'll find "Plains Town."
+0E:183	Want to know where the Sea|Castle is? I'll tell you|for {N}.
+0E:184	You already know, don't you!|Don't mess with me.
+0E:185	Use the East Lighthouse as a|landmark and keep heading|south, and there's the|"Sea Castle." But before|that, go to "Island Town."
+0E:186	I've got some big news!|Want to hear it for {N}?
+0E:187	There's a rumor that Susa|is actually a criminal!
+0E:188	They say there's a demon|beast spy in this town!|And it's after Susa!
+0E:193	Thanks!
+0E:194	Thanks!
+0E:196	Man, you really are|something else!
+0E:197	A man called Uryuu headed|for the Mountain Castle.
+0E:199	They say the fighting in|"Tech City" is over.
+0E:200	If you enter the Mountain|Castle in the daytime,|there's a terrible trap.
+0E:202	Thank you!
+0E:203	Thank you!
+0E:205	Thank you very much.
+0E:206	Thank you very much.

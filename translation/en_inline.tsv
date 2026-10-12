@@ -1,0 +1,83 @@
+# ID	English   Short strings embedded in program code (ID = INL:file offset). Many are fragments joined to a name or number by the code.
+INL:0100E	 can't equip the 
+INL:0106A	 and party
+INL:01DE0	 [0C]Yes [0C]No
+INL:05470	 EXP gained.[14][10]
+INL:05481	 GOLD gained.[14][10]
+INL:05496	 EXP
+INL:0549F	GOLD
+INL:0A846	 Food:
+INL:0B1C6	outside
+INL:0C929	
+INL:0D82D	 put up a barrier.[0F]
+INL:0D863	's wounds healed.[0F]
+INL:0D985	 triggered a trap.|
+INL:0D9A3	 points of damage taken.[0F]
+INL:0DAC8	 EXP and
+INL:0DAD7	 GOLD gained.[0F]
+INL:0E0F7	GOLD
+INL:0E112	|[15]!Time
+INL:0E127	|[15]!Medicine
+INL:0E13C	||[15]!Grenades
+INL:0E154	|[15]!Food
+INL:0E1A5	 GOLD
+INL:0E1D8	Morning
+INL:0E1DC	Day
+INL:0E1E0	Evening
+INL:0E1E3	Night
+INL:0E70E	| [0C]Slot  (EXP      )
+INL:0EB7C	 slices
+INL:0F371	's 
+INL:0F37C	Level
+INL:0F382	Max HP
+INL:0F38C	Max WIL
+INL:0F3C4	
+INL:0F3DE	 rose by {N}.
+INL:0F3EB	 fell by {N}.
+INL:0F40C	Level
+INL:0F41D	 
+INL:0F428	 can now be used.[0E]
+INL:0F768	 GOLD
+INL:0F77C	 found.[0E]
+INL:0F85E	 obtained.[0F][0E]
+INL:0F88F	|You can't carry any more.[0E]
+INL:0F8A9	|Your item bag is full.[0F]
+INL:0F8D3	|Please throw something away.[0F][0E]
+INL:0F8EC	|Throw something away? [0C]Yes [0C]No
+INL:12400	Sorry, but the data is corrupted.|The data will be deleted.[0E]
+INL:1242C	[06]The data has been deleted.[0E]
+INL:12440	 Not enough space in backup memory.| Please delete one.|[0C]Don't delete|
+INL:1247C	 Backup memory has not been formatted.|What will you do?|[0C]Format it|[0C]Don't format it
+INL:124B5	[06]  Something seems to be wrong with|the backup memory.[0E]
+INL:124D4	 Is it OK to delete it?|[0C]Yes [0C]No
+INL:12AA8	Name
+INL:12AB7	Food
+INL:12ABE	Grenades
+INL:12AC6	Medicine
+INL:12ACA	Password
+INL:12AD4	Please enter {LABEL}.
+INL:12AE4	 value is too large.
+INL:12AF3	The password or data is incorrect.
+INL:135D5	[06]  Which will you use?|[0C]Backup Memory|[0C]Password
+INL:135FD	[0C]Slot  (EXP      )|
+INL:13614	   Which one will you load?|
+INL:13683	Name
+INL:13700	HP
+INL:1374B	WIL
+INL:1378D	EXP :
+INL:137A6	GOLD:
+INL:13824	LVL
+INL:13868	STR
+INL:1389A	DEX
+INL:138CC	VIT
+INL:138FE	MDX
+INL:13935	Wpn
+INL:13948	Arm
+INL:1395B	Shd
+INL:1396E	Hlm
+INL:139B6	Wpn
+INL:139CC	Arm
+INL:139E2	Shd
+INL:139F8	Hlm
+INL:13A38	None
+INL:13A4A	Str

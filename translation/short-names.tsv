@@ -1,0 +1,27 @@
+# Short menu names. Empty 'Short name' = the full name is used.
+# Full names stay in dialogue and shops; menus (equipment, status, item bag, teleport list) show the short name.
+# Limit: items 64 px (equipment and status windows), places 72 px (teleport list). The build checks the widths.
+ID	Japanese	Full name	Full px	Limit px	Short name
+14:053	のうはヘルメット	Brainwave Helmet	81	64	Bwave Helmet
+14:005	退魔の鎧	Demonbane Armor	81	64	Dbane Armor
+14:018	ひいずるかがみ	Rising Sun Mirror	77	64	R S Mirror
+14:075	ささやきのいし	Whispering Stone	75	64	Whisp Stone
+14:056	ぼうだんチョッキ	Bulletproof Vest	73	64	Bproof Vest
+14:038	ロケットランチャ	Rocket Launcher	73	64	R Launcher
+14:011	力の剣	Sword of Power	73	64	Sword of Pw
+14:009	力の鎧	Armor of Power	73	64	Armor of Pw
+14:080	バリアマシン	Barrier Machine	71	64	Barr Machine
+14:074	アルミの盾	Aluminum Shield	71	64	Alu Shield
+14:008	ゆめの兜	Helm of Dreams	71	64	Helm Dreams
+14:023	ほぞんしょく	Preserved Food	70	64	Pres Food
+14:019	はねばしのカギ	Drawbridge Key	70	64	Drawb Key
+14:010	力の盾	Shield of Power	70	64	Shield of Pw
+14:006	クサナギの剣	Kusanagi Sword	70	64	Kusanagi Sw
+14:032	ロケットボウガン	Rocket Crossbow	77	64	Rocket Crossb
+14:055	かわの鎧	Leather Armor	66	64	Leather Armr
+11:001	はねばしの村	Drawbridge Village	83	72	Drawb Village
+11:014	獣魔王	Beast Demon King	78	72	B D King
+11:006	はねばしのはいきょ	Drawbridge Ruins	77	72	Drawb Ruins
+14:030	きのボウガン	Wood Crossbow	70	64	Wood Crossb
+14:031	てつのボウガン	Iron Crossbow	66	64	Iron Crossb
+14:014	レコーダ	Tape Recorder	65	64	TapeRecorder

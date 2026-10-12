@@ -1,0 +1,357 @@
+# ID	English   Blocks 0F-16 = names, item descriptions, menus and lists.
+0F:000	Baron
+0F:001	Shelly
+0F:002	Mikey
+0F:003	Runya
+0F:004	Michael
+0F:005	Milly
+0F:006	Holta
+0F:007	Koji
+0F:008	McCoy
+0F:009	Gozo
+0F:010	Chiko
+0F:011	Scotty
+0F:014	Ryuga
+0F:015	Max
+0F:016	Oz
+0F:017	Izumi
+0F:018	John
+0F:019	Mil
+0F:021	Kiriyama
+0F:022	Shin
+0F:023	Godot
+0F:024	Rock
+0F:025	Fujimi
+0F:026	Honey
+0F:028	Mike
+0F:029	Lee
+0F:030	Gen
+0F:031	Birdie
+0F:032	Eagle
+10:001	Blows away even distant|enemies all at once.
+10:002	Restores 10 HP.
+10:014	Still works!
+10:026	Lets you dive deep into the sea|and stay down longer.
+10:027	You can dive in shallow water,|just don't try anything deeper.
+10:029	The cheapest ranged weapon.
+10:030	If it hits,|it's extremely powerful.
+10:031	This one's a little heavy.
+10:032	The finest crossbow there is.
+10:033	A spear you throw at enemies.
+10:034	This weapon misses more|often than you'd think.
+10:035	Weaker than a machine gun,|but hits more often.
+10:036	Outstanding power and|great accuracy.
+10:037	Aim it, and it's a sure kill!
+10:038	Our top pick.|It's just plain amazing.
+10:039	Demon beasts are weak to fire.
+10:040	Better than nothing.
+10:041	Just right as a first weapon.
+10:042	Well, if you've got the muscle,|it's a strong weapon.
+10:043	Easier to use than a knife.
+10:044	A spiked club.
+10:045	They say it's a famous blade|handed down from long ago.
+10:046	This sword is incredibly sharp.
+10:047	Swing this around and you've|got nothing to fear.
+10:048	They say this one can cut|down even a horse.
+10:049	High-end gear you won't find|at any other shop.
+10:050	It'll keep the sun off, I guess.
+10:051	It looks bad, but it works.
+10:052	Armies used to wear these|back in the day.
+10:053	A helmet that protects you|with the power of ESP.
+10:054	You can't go around naked.
+10:055	Lightweight and protective.
+10:056	This one's a real bargain!
+10:057	It's heavy, but it gives|perfect protection.
+10:058	This one's strong.|It's the very best.
+10:059	A cheap shield.|Better than nothing.
+10:060	A reliable shield.
+10:061	A light, strong ceramic shield.
+10:062	A shield made of a special alloy.
+10:063	The strongest shield, made|from a certain robot's metal.
+10:064	This one piece covers weapon,|armor, shield and helmet all|at once. So be careful|when you equip it.
+10:074	A relic of the old civilization.
+10:080	Puts up a level 1 barrier|around everyone.
+10:081	Puts up a level 2 barrier|around everyone.
+11:000	Lake Town
+11:001	Drawbridge Village
+11:002	Tugboat Town
+11:003	Island Ruins
+11:004	Airfield
+11:005	Gasoline Town
+11:006	Drawbridge Ruins
+11:007	Village of Hope
+11:008	North Port
+11:009	South Port
+11:010	Island Town
+11:011	Plains Town
+11:012	Mountain Village
+11:013	Tech City
+11:014	Beast Demon King
+11:015	Temple
+11:016	Sea Castle
+11:017	Mountain Castle
+11:018	Sky Castle
+11:019	Bandits
+11:020	Ama-no-Iwato
+11:021	Hermit
+12:000	PK
+12:001	Wave
+12:002	Flare
+12:003	Barrier
+12:004	Cure
+12:005	Hold
+12:006	Levi
+12:007	Teleport
+13:000	[0C]Atk [0C]ESP [0C]Items [0C]Equip [0C]Status [0C]Pass
+13:001	[0C]Atk [0C]ESP [0C]Items [0C]Equip [0C]Help [0C]Def
+13:002	[0C]ESP [0C]Items [0C]Equip [0C]Status [0C]Camp
+13:003	[0C]ESP [0C]Items [0C]Equip [0C]Status [0C]Anchor
+13:004	[0C]Fight [0C]ESP [0C]Items [0C]Equip [0C]Status
+13:005	[0C]Talk [0C]ESP [0C]Items [0C]Equip [0C]Status
+13:006	[0C]Rest [0C]Formation [0C]Status [0C]Depart
+13:007	You have no items.[0E]
+13:008	 is defending.[0E]
+13:009	Choose a target to attack.[0E]
+13:010	's action[0E]
+13:011	[0C]Unequip
+13:012	No usable ESP.[0E]
+13:013	 [0C]HP Display [0C]Message Speed
+13:014	 [0C]Battle Messages
+13:015	 [0C]Left [0C]Right [0C]Hide
+13:016	 Fast [0C]1[0C]2[0C]3[0C]4[0C]5 Slow
+13:017	 [0C]Normal [0C]Press to skip [0C]Off
+13:018	Not enough WIL.[0F]
+13:019	 teleported to [0F]
+13:020	 withdrew from battle.[0F]
+13:021	 collapsed.[0F]
+13:022	The demon beasts vanished.[0F]
+13:023	There are no demon beasts.[0F]
+13:024	There's no one to talk to.[0F]
+13:025	No food.[0F]
+13:026	Choose a position for 
+13:027	Leave the ship? [0C]Yes [0C]No
+13:028	 has been immobilized.[0F]
+13:029	 can't move.[0F]
+13:030	 can move again.[0F]
+13:031	Your food has run out.[0E]
+13:032	[06]*Please write down both the|following data and the password.[0E]
+13:033	[06]*Save to backup memory?| [0C]Don't save
+13:034	[06]|*Saved to backup memory.[0E]
+13:035	[06]|*Couldn't save to backup memory.[0F]▼
+13:036	Can't use that here.[0F]
+13:037	 has no weapon equipped.[0F]
+13:038	Can't attack.[0F]
+13:039	Demon beasts appeared![0F]
+13:040	Teleport is blocked.[0E]
+13:041	.[0E]
+13:042	You can't camp here.[0E]
+13:043	*Suddenly, a voice came from out of nowhere. ▼|[06]
+13:044	"I am... ...Kubira... ...slain... ▼| ...something I wanted to tell you... ▼| ......waited here." ▼|*The voice faded away like the wind. ▼
+13:045	"I am Kubira, one of the Twelve Heavenly Generals, slain by the Susano Oh of the Mountain. ▼| There was something I wanted to tell you, so I lingered on as a spirit and waited here." ▼
+13:046	[07]"I give you the Helm of Dreams, which was sealed away by the power of the Susano Oh of the Mountain." ▼|"Sweep away the evil that swirls through this world. ▼| That is your destiny." ▼
+13:047	ESP is blocked.[0F]
+14:000	Food
+14:001	Grenade
+14:002	Medicine
+14:003	Silver Helm
+14:004	Mirror Shield
+14:005	Demonbane Armor
+14:006	Kusanagi Sword
+14:007	Magatama
+14:008	Helm of Dreams
+14:009	Armor of Power
+14:010	Shield of Power
+14:011	Sword of Power
+14:012	Robe of Light
+14:013	Night Scope
+14:014	Tape Recorder
+14:015	Tape
+14:016	PK Bomb
+14:017	E-Capsule
+14:018	Rising Sun Mirror
+14:019	Drawbridge Key
+14:020	Water Jewel
+14:021	Fire Jewel
+14:022	Gasoline
+14:023	Preserved Food
+14:024	Sleeping Gas
+14:025	Poison Gas
+14:026	Oxygen Tank
+14:027	Snorkel
+14:028	Gas Mask
+14:029	Crossbow
+14:030	Wood Crossbow
+14:031	Iron Crossbow
+14:032	Rocket Crossbow
+14:033	Javelin
+14:034	Pistol
+14:035	SMG
+14:036	Machine Gun
+14:037	A-Rifle
+14:038	Rocket Launcher
+14:039	Flamethrower
+14:040	Stick
+14:041	Knife
+14:042	Steel Pipe
+14:043	Survival Knife
+14:044	Mace
+14:045	Katana
+14:046	Cutlass
+14:047	Axe
+14:048	Zanbato
+14:049	Laser Knife
+14:050	Hat
+14:051	Helmet
+14:052	Iron Helmet
+14:053	Brainwave Helmet
+14:054	Clothes
+14:055	Leather Armor
+14:056	Bulletproof Vest
+14:057	Armor
+14:058	Ceramic Suit
+14:059	Wooden Shield
+14:060	Iron Shield
+14:061	Clear Shield
+14:062	Alloy Z Shield
+14:063	New Z Shield
+14:064	Armored Suit
+14:065	Password
+14:066	Sealing Orb
+14:067	Mizukiri
+14:068	Release Key
+14:069	Pillar Key
+14:070	ID Card
+14:071	Letter
+14:072	Spare Parts
+14:073	Demon Candle
+14:074	Aluminum Shield
+14:075	Whispering Stone
+14:076	Plastic Tank
+14:077	Crude Oil
+14:078	Chief's Letter
+14:079	Restorative
+14:080	Barrier Machine
+14:081	Hyper Barrier
+14:082	Pendant
+14:083	HuCard
+15:000	Susa
+15:001	Yukishiro
+15:002	Uryuu
+15:003	Mitsurugi
+15:004	Mido
+15:005	Goda
+15:006	Jack
+15:007	Goki
+15:008	Meiden
+15:009	Shochun
+15:010	Liza
+15:011	Persia
+15:012	Kenta
+15:013	Haida
+15:014	Big Boss
+15:015	Vamos
+15:027	Tugboat
+15:028	Ocean Liner
+15:029	Hovercraft
+15:030	Airplane
+15:031	Rangoon
+16:000	False Susa
+16:001	Monster 1
+16:002	Monster 2
+16:003	Monster 3
+16:004	Monster 4
+16:005	Monster 5
+16:006	Blue Gel
+16:007	Slime
+16:008	Giant Bat
+16:009	Giant Caterpillar
+16:010	Death Toad
+16:011	Elliott
+16:012	Esca
+16:013	Viper
+16:014	Venom Spider
+16:015	Bone Slug
+16:016	Croks
+16:017	Monolord
+16:018	Sisty
+16:019	Highwayman
+16:020	Bandit
+16:021	Fur Man
+16:022	Demon Priest
+16:023	Kingman
+16:024	Chamber
+16:025	Man-Eating Plant
+16:026	Mad Monkey
+16:027	Rollhole
+16:028	Catman
+16:029	Grudge Tree
+16:030	Seasman
+16:031	Triffid
+16:032	Yonfoon
+16:033	Mad Satan
+16:034	Zombie Dog
+16:035	Demon Cat
+16:036	Technodon
+16:037	Gorgos
+16:038	Skullhead
+16:039	Baldry
+16:040	Alf
+16:041	Sea Malice
+16:042	Bostang
+16:043	Unidugong
+16:044	Octron
+16:045	Tougle
+16:046	Fibone
+16:047	Veiz
+16:048	Sea Dragon
+16:049	Sea Wing
+16:050	Merman
+16:051	Armhill
+16:052	Giant Centipede
+16:053	Hydrox
+16:054	Welgo
+16:055	Death Eye
+16:056	Dodoranda
+16:057	Zombie
+16:058	Cicada Man
+16:059	Wolfman
+16:060	Swordkill
+16:061	Finx
+16:062	Murder Bear
+16:063	Tyranos
+16:064	Double Sword
+16:065	Darkhorse
+16:066	Orion
+16:067	Byakuojo
+16:068	Berserker
+16:069	Sandara
+16:070	Samurai
+16:071	Chainman
+16:072	Goriki
+16:073	One-Horned Oni
+16:074	Armor Man
+16:075	Mummy
+16:076	Zoback
+16:077	Zorm
+16:078	Giant Scorpion
+16:079	Ganihorn
+16:080	Golgotha
+16:081	Death Lugger
+16:082	Bokero
+16:083	Tesesrock
+16:084	Hizuma
+16:085	Pony
+16:086	Iron Kaiser
+16:087	Majo
+16:088	Brain
+16:089	Dark Master
+16:090	Beast Demon King
+16:091	Beast Demon King
+16:092	Beast Demon King
+16:093	Beast Demon King
+16:094	Cult Founder
+16:095	Sea Susano Oh
+16:096	Mountain Susano Oh
+16:097	Sky Susano Oh
+16:098	Yamata-no-Orochi
+16:099	Destagira

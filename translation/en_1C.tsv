@@ -1,0 +1,144 @@
+# ID	English   Block 1C = story events: opening, Lake Town, Beast Demon King's castle, Kuwahara, tugboat, hermit captain, letter quest, Hikara.
+1C:000	[06][13]2|  "What happened? Where am I?"[14][FF][06]|"Where's Uryuu? Where's Yukishiro?"[14][FF]
+1C:001	[06]|"I don't really know|what's going on, but..."[14]大[06]|"I can see a town! Let's go there."[14][FF][14][FF]
+1C:002	Oh my, a traveler! You were attacked by demon beasts, weren't you. Come along with me.
+1C:003	They took your things, didn't they? Here, take this.
+1C:004	[07]No need to thank me. I haven't got much time left anyway.
+1C:005	[07]But for the town's sake, will you hear my plea?|
+1C:006	 »I'll listen, ma'am%| »Sorry, I'd rather not%
+1C:007	[07]Have you no heart at all? At least hear me out!|
+1C:008	[07]Six months ago, a creature called the Beast Demon King built a castle in the mountains northeast of town and settled there.
+1C:009	[07]Since then, demon beasts have been roaming around, and it's dangerous just to walk outside...
+1C:010	[07]So I'm begging you! Defeat the Beast Demon King!
+1C:011	[07]They say the girl in the house with the lamp knows something about the Beast Demon King. ▼ [07]Go ask her.
+1C:012	[07]And one more important thing about grenades and medicine: you can only carry 15 of each.
+1C:013	[07]I'm counting on you.
+1C:014	It's pitch dark! Too dangerous to go in!
+1C:015	"The Beast Demon King's castle is dangerous."|
+1C:016	[07]"Give up and turn back."| »No, I must go%| »You're right, I give up%
+1C:017	[07]"No one would blame you for that choice."
+1C:018	[07]"What courage you have. At least take this shield."
+1C:019	You hear voices coming from the west.
+1C:020	The voices seem to be coming from the top of the stairs.
+1C:021	A voice drifted over on the wind.
+1C:022	[06]|* You haven't had an audience with Lord Beast Demon King? ▼|* Er, no, I haven't.
+1C:023	[06]* Then I'll put in a word so he'll see you.|  ...... ▼|  Off you go.
+1C:024	[06]* Where is Lord Beast Demon King?
+1C:025	[06]* You don't even know that?! I'll tell you, so don't forget.
+1C:026	[06]* Go down the stairs on the first floor and follow the corridor.
+1C:027	[06]* At the end of the corridor there's an entrance. That's Lord Beast Demon King's chamber.
+1C:028	[06]* I should warn you: the Beast Demon King has been in a foul mood lately. Too many of his underlings have been killed. ▼|  So watch what you say.
+1C:029	[06]* You hear strange voices. | But you can't understand what they're saying.
+1C:030	A voice echoed from inside!|"Who goes there?"
+1C:031	[06]|"I'm the one who requested an audience with the Beast Demon King earlier." ▼|"Very well. Enter."
+1C:032	| »Slip away quietly%| »Charge in boldly%
+1C:033	[06]You decided to slip quietly away.
+1C:034	[06]No good! The door won't budge!
+1C:035	[06]"An intruder! Guards!"
+1C:036	[06]"So you're the human who's been defying Lord Beast Demon King! I'll eat you alive!!"
+1C:037	[06]You tried the door, but it didn't move.
+1C:038	[06]It sounds like demon beasts are talking inside, but you can't understand what they're saying.
+1C:039	Sinister demon beasts appeared! They seem to be after the night-vision scope!
+1C:040	Huh? About the Beast Demon King? I could tell you, but... ▼ [07]I need a favor. Will you hear me out?|
+1C:041	 »I'll hear you out%| »No way%
+1C:042	What? You still haven't delivered it? You promised! That's low!
+1C:043	The Beast Demon King's gone, see, so I'm carrying it myself.
+1C:044	[07]Fine! I won't ask you again.
+1C:045	[07]There's a weird old guy who's settled in the cave you can see east of the village.
+1C:046	[07]I deliver food to him there every month, but...
+1C:047	[07]Since the Beast Demon King arrived, those creatures roam around here. I'm scared.
+1C:048	|So, y'know... ▼[07]|Take the food to him for me! Do that and I'll tell you!
+1C:049	Thanks. A promise is a promise, so I'll tell you. ▼ [07]To get to the Beast Demon King's castle, you go through the cave northeast of "Lake Town."
+1C:050	[07]But that cave is pitch black, too dangerous to go in. ▼ [07]If you've got a night-vision scope, though, it's as bright as day even inside the cave.
+1C:051	[07]And, you know, I saw where it is! ▼ [07]Demon beasts... carrying a night-vision scope into a hidden cave north of "Lake Town"!
+1C:052	Yeah, I'm Kuwahara. What is it? I don't know you. Get out!
+1C:053	What do you want?|
+1C:054	Thanks for your help at the lookout hut!|
+1C:055	You want a ride on the ship?| »Yes, please!%| »I just came in by mistake%
+1C:056	[07]Once you're out of town, board the ship at the pier. The captain will take care of the rest.
+1C:057	[07]For you, there's always room aboard.
+1C:058	Hello! This is the tugboat pier! Sorry, we can't take anyone right now! Ask at the meeting for details!
+1C:059	When night fell, the captain stopped the ship and began to talk.
+1C:060	[06]Up north, the sea forms a big bay, and there are some interesting stories about it.
+1C:061	[06]There's a weird guy who lives there, an aviation nut they call "the Airplane Man"... ▼|There are ruins out in the middle of the sea too, or something like that.
+1C:062	[06]Anyway, here's something important you'd better remember.
+1C:063	[06]The sea has tides: deep at night, shallow by day. ▼|Forget that and you can get into real trouble.
+1C:064	What, who are you? Did you bring me my food?|
+1C:065	 »Here's the food%| »I came about something else%
+1C:066	[06]I'm a hermit, nothing more! If you've got no business | with me, stay away!
+1C:067	The food came just recently! If you've got no business | with me, stay away!
+1C:068	[06]You brought me food. Thank you. ▼|When you've renounced the world, eating is your only pleasure.
+1C:069	[06]Don't lie to me! You don't have it!
+1C:070	[06]I used to be the captain of a hovercraft, but now I've renounced the world and live here.
+1C:071	[06]She was a magnificent ship... ▼[06]A powerful, state-of-the-art ship that could cross any sea at will! ▼[06]And I was her captain! I was somebody!
+1C:072	[06]But none of that matters to me now! Get out of here!
+1C:073	[06]On second thought... I'll tell you something useful. Kuwahara knows something interesting about the Beast Demon King. ▼[06]Go ask him.
+1C:074	[06]And here, take this pendant. Some fellow called Uryuu came by the other day and gave it to me, but I've got no use for it.
+1C:075	[06]Apparently it's a handy device that shows how much HP a demon beast has left. ▼|Now don't ever come back!
+1C:076	You again?|
+1C:077	What do you want to know?| »About the ship%| »Just came to see you%
+1C:078	[06]I knew it. The hovercraft runs on a password. The password is my voice. ▼[06]But... ▼|I have no intention of leaving this place!
+1C:079	[06]Came to see me? Don't lie! I'm not leaving here! The ship's nothing to me!
+1C:080	I'll record the password onto that tape recorder for you. ▼|But in return, never come back!
+1C:081	If you want me to record the password, a tape recorder alone won't do. ▼|You need a tape, too, don't you?
+1C:082	If you want me to record the password, a tape alone won't do. ▼|You need a tape recorder, obviously!
+1C:083	I told you never to come back!
+1C:084	"I wonder how Dad is doing..."|
+1C:085	 »What are you thinking about?%| »Leave%
+1C:086	[07]I used to live with my dad, but I wanted to go to town, so I came all the way here.
+1C:087	[07]I was planning to go home after a while, but... ▼ [07]then demon beasts started roaming all around here, and I couldn't get back.
+1C:088	[07]Hey! Would you take a letter to my dad for me?| »Sure%| »Nah%
+1C:089	[07]I see... ▼|I guess that was asking too much.
+1C:090	[07]He lives near the sea, way, way east of this town! Please!!
+1C:091	[07]And take this money. Use it for food on your journey.
+1C:092	What?! M-my dad?! Something so terrible happened? ▼ [07]Oh, what should I do... ▼ [07]I know! I'll tell you something useful!
+1C:093	[07]They say a man named Kuwahara in the village down south knows something about the Beast Demon King! ▼ [07]If you ask him, I'm sure you'll find out how to beat it!
+1C:094	[07]Please! Save my dad!
+1C:095	Thank you! Thank you for saving my dad!
+1C:096	You delivered my letter! ▼ [07]Oh, I know! I'll tell you something useful. Apparently my dad knows something about the Beast Demon King. ▼ [07]Why don't you go ask him?
+1C:097	Haven't you beaten the Beast Demon King yet?
+1C:098	Thank you for granting this old woman's wish.
+1C:099	What can I do for you? Oh! A letter from my daughter! Thank you for bringing it! ▼ [07]It's not much in return, but won't you stay and hear a story?
+1C:100	[07]It's a dreadful thing, but the earth has been utterly devastated, and not a fragment of civilization remains.
+1C:101	[07]And all of it is Susano Oh's doing! ▼ No one knows where he came from. ▼ [07]But with his terrible power, he destroyed the whole world.
+1C:102	[07]And then the world was overrun by strange demon beasts... ▼ [07]Now humankind can barely survive.
+1C:103	[07]Is there no one who can defeat Susano Oh...?
+1C:104	It's someone else's letter. Better not read it.
+1C:105	H-help meee!
+1C:106	Demon beasts are chasing me! Help!
+1C:107	You saved me. ▼ [07]I set out on a journey to defeat the Beast Demon King. ▼ [07]At first I was traveling with a man named Uryuu, but...
+1C:108	[07]We heard that an old man living in a hut knows about the Beast Demon King. We were on our way there when...
+1C:109	[07]I got separated from Uryuu, and while I was trying to find my way, I was attacked... ▼ You saved me! ▼ [07]It's not much, but please use this money for your journey.
+1C:110	Oh! It's you?! I know what you want to ask.
+1C:111	[07]You want to know about the Beast Demon King, don't you. The Beast Demon King lives in a castle beyond the cave in the cliffs northeast of "Lake Town."
+1C:112	[07]They say he was once human. He...
+1C:113	[06]A voice echoed from out of nowhere! "That's enough, old man! Lord Beast Demon King has taken your voice!"
+1C:114	[06]The old man moves his mouth, trying to say something... ▼[06]but no voice comes out...
+1C:115	[06]But... from the movement of his lips, he seems to be saying, "Go see my daughter."
+1C:116	Is there something you need?
+1C:117	Thank you. I can speak again.
+1C:118	You want the "Drawbridge Key," don't you. Here it is. Use it in "Drawbridge Village."
+1C:119	It's late, so stay the night. Make yourself comfortable.
+1C:120	Oh, you've come! I can't offer you much, but please do stay the night!
+1C:121	There's a keyhole that looks like a perfect fit for the key.|
+1C:122	 »Try the key%| »Leave it alone%
+1C:123	[06]The moment you inserted the key... there was a loud noise outside!
+1C:124	It's a perfectly ordinary key.
+1C:125	There's a keyhole!
+1C:126	So you've come, Susa! I've been waiting! I am a crew member of the Rangoon, one of Mitsurugi's Twelve Heavenly Generals. My name is Hikara.
+1C:127	[07]There's something I must tell you. Will you hear me out?| »All right! I'll listen%| »No! I don't want to hear it%
+1C:128	[07]As you've probably guessed, the strongest Susano Oh, the Susano Oh of the Sky, is in the land to the west. ▼ [07]I was sent from the Rangoon to keep watch on the Susano Oh of the Sky.
+1C:129	[07]It's just about time. Let's go outside for a moment.
+1C:130	Look to the west! That's our final objective! The "Sky Castle"!
+1C:131	Did you see it? That was the Sky Castle, home of the strongest Susano Oh. ▼ [07]That castle is protected by powerful ESP and flies through the sky.
+1C:132	[07]What's more, that land is surrounded by sheer cliffs that can't be climbed. ▼ [07]The only way onto it is from the sky.
+1C:133	[07]That's why, far to the west, the Rangoon is now being repaired.
+1C:134	[07]Head for the Rangoon as fast as you can! They must be waiting for you!
+1C:135	Waaah! We're beaten! Retreat!
+1C:136	Another rescue party?! We'll wipe you out again!
+1C:137	Thank you so much! For a while I didn't know what to do! The tugboat should be able to run again!
+1C:138	We're keeping watch for demon beasts here, so the "Tugboat Town" tugboat can run safely.
+1C:139	Susa! I finally caught up! I've got a message for you. ▼ [07]The old man can talk again, and he says he wants to give you the "Drawbridge Key" as thanks.
+1C:140	[07]Apparently the "Drawbridge Key" is very important. ▼ [07]Well, I'll be going now. Goodbye.
+1C:141	You want to go east?|
+1C:142	 »Yes, I want to go east%| »Never mind%

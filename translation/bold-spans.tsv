@@ -1,0 +1,251 @@
+# Quoted spans in translation/en_*.tsv and how the encoder draws them (tools/textenc.py reads this file).
+# class: bold = a name or term: drawn in the bold font, quote marks removed, punctuation at the end of the span
+#        (. , ! ? ; :) moves outside the bold run and stays regular weight.
+#        speech = quoted speech or a clause: regular weight, quote marks kept.
+#        bold? / speech? = doubtful; the encoder follows the word before the '?'. Flip a span by editing its class.
+# span = the text between the straight quotes exactly as in the TSV (markup such as | included).
+# A quoted span missing from this file falls back to an automatic rule and the build logs a warning.
+ID	span	class
+00:002	Shindara	bold
+00:002	Demonbane Armor.	bold
+00:002	night-vision scope	bold
+00:003	night-vision scope	bold
+00:006	equipped	bold
+00:008	food,	bold
+00:009	food	bold
+00:020	night-vision scope	bold
+00:022	Tugboat Town	bold
+00:022	night-vision scope	bold
+00:023	night-vision scope	bold
+00:023	Tugboat Town	bold
+00:025	an even worse demon beast is coming.	bold
+00:026	Lake Town.	bold
+00:027	Lake Town	bold
+01:003	watch.	bold
+01:012	Lake Town	bold
+01:018	Drawbridge Village.	bold
+01:019	Drawbridge Village.	bold
+02:001	Tugboat Town.	bold
+05:001	Drawbridge Ruins	bold
+05:003	Village of Hope.	bold
+05:005	Drawbridge Ruins	bold
+05:006	Gasoline Town.	bold
+05:007	Sell me some gasoline.	speech
+05:010	Ryuichi	bold
+05:012	Village of Hope,	bold
+05:013	Drawbridge Ruins	bold
+05:015	Drawbridge Ruins.	bold
+05:024	Mountain Village	bold
+05:024	PK Bomb.	bold
+05:025	PK Bomb	bold
+07:019	heading southwest,	bold
+08:017	I'm heading for the Sea Castle.	speech
+08:024	North Port.	bold
+08:025	North Port.	bold
+08:025	South Port	bold
+09:001	Mountain Village,	bold
+09:004	East Lighthouse.	bold
+09:005	East Lighthouse	bold
+09:005	Tech City	bold
+09:006	Tech City.	bold
+09:007	Tech City,	bold
+09:007	ID card.	bold
+09:014	West Lighthouse	bold
+09:015	Mountain Village,	bold
+09:016	Plains Town	bold
+09:017	Plains Town	bold
+09:018	Plains Town.	bold
+09:019	Plains Town	bold
+09:022	West Lighthouse	bold
+09:023	Mountain Village,	bold
+09:027	Tech City.	bold
+09:030	West Lighthouse	bold
+0A:002	Saint Mumyo.	bold
+0A:002	Saint Mumyo	bold
+0A:004	Saint Mumyo,	bold
+0A:005	Saint Mumyo.	bold
+0A:008	Saint Mumyo	bold
+0A:009	Saint Mumyo	bold
+0A:010	Looks like Yukishiro's in the Sea Castle.	speech
+0A:011	Mountain Village.	bold
+0A:012	Saint Mumyo	bold
+0A:020	Island Town.	bold
+0A:021	Island Town.	bold
+0B:000	Plains Town.	bold
+0B:001	Plains Town.	bold
+0C:008	PK Bomb	bold
+0C:012	Mountain Village	bold
+0C:013	Mountain Village, where water is plentiful	bold
+0D:000	hovercraft	bold
+0D:014	Drawbridge Ruins	bold
+0E:121	Saint Mumyo.	bold
+0E:123	Whispering Stone	bold
+0E:124	Whispering Stone	bold
+0E:125	Whispering|Stone	bold
+0E:154	Drawbridge Key.	bold
+0E:155	Drawbridge Key.	bold
+0E:157	Tech City	bold
+0E:160	night-vision scope	bold
+0E:161	night-vision|scope.	bold
+0E:166	Tugboat Town.	bold
+0E:167	Tugboat Town.	bold
+0E:182	Plains Town.	bold
+0E:185	Sea Castle.	bold
+0E:185	Island Town.	bold
+0E:199	Tech City	bold
+13:044	I am... ...Kubira... ...slain... ▼| ...something I wanted to tell you... ▼| ......waited here.	speech
+13:045	I am Kubira, one of the Twelve Heavenly Generals, slain by the Susano Oh of the Mountain. ▼| There was something I wanted to tell you, so I lingered on as a spirit and waited here.	speech
+13:046	I give you the Helm of Dreams, which was sealed away by the power of the Susano Oh of the Mountain.	speech
+13:046	Sweep away the evil that swirls through this world. ▼| That is your destiny.	speech
+17:015	Susano Oh	bold
+1B:010	......	speech
+1C:000	What happened? Where am I?	speech
+1C:000	Where's Uryuu? Where's Yukishiro?	speech
+1C:001	I don't really know|what's going on, but...	speech
+1C:001	I can see a town! Let's go there.	speech
+1C:015	The Beast Demon King's castle is dangerous.	speech
+1C:016	Give up and turn back.	speech
+1C:017	No one would blame you for that choice.	speech
+1C:018	What courage you have. At least take this shield.	speech
+1C:030	Who goes there?	speech
+1C:031	I'm the one who requested an audience with the Beast Demon King earlier.	speech
+1C:031	Very well. Enter.	speech
+1C:035	An intruder! Guards!	speech
+1C:036	So you're the human who's been defying Lord Beast Demon King! I'll eat you alive!!	speech
+1C:049	Lake Town.	bold
+1C:051	Lake Town	bold
+1C:061	the Airplane Man	bold
+1C:084	I wonder how Dad is doing...	speech
+1C:111	Lake Town.	bold
+1C:113	That's enough, old man! Lord Beast Demon King has taken your voice!	speech
+1C:115	Go see my daughter.	speech
+1C:118	Drawbridge Key,	bold
+1C:118	Drawbridge Village.	bold
+1C:130	Sky Castle	bold
+1C:138	Tugboat Town	bold
+1C:139	Drawbridge Key	bold
+1C:140	Drawbridge Key	bold
+1D:008	Demon Candle	bold
+1D:009	Lord Demon King... Lord Demon King...	speech
+1D:010	This is holy ground. You must not enter.	speech
+1D:011	Now take up the helm and awaken to your mission.	speech
+1D:011	Go out upon the wide sea and defeat Susano Oh.	speech
+1D:013	Now that you have awakened to your mission, there is no need to waver.	speech
+1D:016	I mustn't go down here!	speech
+1D:018	I heard a noise!	speech
+1D:018	Over here!	speech
+1D:019	Noooo! Somebody help me!	speech
+1D:019	Silence! You're coming with us!	speech
+1D:020	Somebody! Somebody help me!	speech
+1D:021	Noooo...	speech
+1D:031	Demon Candle,	bold
+1D:034	Demon Candle.	bold
+1D:036	Demon Candle.	bold
+1D:037	Demon Candle	bold
+1E:028	Eeeek!	speech
+1E:028	Waaah!	speech
+1E:034	Susano Oh of the Sea	bold
+1E:042	West Lighthouse	bold
+1E:044	West Lighthouse,	bold
+1E:045	Use the ship however you like.	speech
+1E:057	Heh heh heh...	speech
+1E:058	Don't you think something's strange?	speech
+1E:060	Took you this long to notice, huh?	speech
+1E:061	Still haven't noticed, huh...	speech
+1E:062	You see... ▼|the truth is, I'm a spy sent by Lord Susano Oh to lure you into a trap!	speech
+1E:063	This room will be your grave!	speech
+1E:063	Die!	speech
+1E:078	sightseeing trip,	bold
+1E:080	South Port	bold
+1E:080	Tech City,	bold
+1E:082	Hurry up and bring that key!	speech
+1E:083	Hurry up and help me...	speech
+1E:084	Y-you there, help me...	speech
+1E:085	Over here! Hurry!	speech
+1E:086	Instead of coming over here, hurry up and help me!	speech
+1E:087	Over here! At the top of the stairs!	speech
+1E:088	Just my rotten luck...	speech
+1E:089	Man... oh! Hey, you there, buddy!	speech
+1E:090	You came to beat Susano Oh, right?	speech
+1E:090	Then have I got a deal for you.	speech
+1E:090	There's a sailor trapped in the floor on the first level.	speech
+1E:091	Word is that guy met Susano Oh.	speech
+1E:091	Get me out of here, and I'll tell you how to rescue the sailor.	speech
+1E:092	What I need you to do is simple.	speech
+1E:092	Go to the room in the southwest corner and just step on the floor tile with a pattern on it.	speech
+1E:093	It's the odd-looking tile in that room's northeast corner!	speech
+1E:093	I'm counting on you. You're my only hope.	speech
+1E:094	Whew! You saved me!	speech
+1E:094	I was a bandit in the Tabito Gang.	speech
+1E:095	Back then, I was doing pretty well...	speech
+1E:096	But then we got crushed by some monster of a guy called Susa, and it was all downhill from there.	speech
+1E:097	Well, whatever... ▼| Now, about how to rescue that guy...	speech
+1E:097	Go back downstairs. To the west, you'll find a staircase that leads to a pool.	speech
+1E:098	Climb it and go to the right corner. There's a hidden room there.	speech
+1E:098	You'll find a key in it.	speech
+1E:098	Well, see ya.	speech
+1E:103	Use that key!	speech
+1E:104	H-hey, you! I'm a sailor, and I'm trapped in this floor!	speech
+1E:104	Please! Help me!	speech
+1E:105	Do something!	speech
+1E:118	Hey! Y-you need this!	speech
+1E:118	Whoa!	speech
+1E:119	Hey, you! Stop right there!	speech
+1E:120	Without this jewel, you can't get in!	speech
+1E:121	Use this jewel!	speech
+1E:127	Thank you!	speech
+1E:127	You've come to defeat Susano Oh, haven't you?	speech
+1E:127	Let me tell you how to reach him.	speech
+1E:128	First, go up to the second floor and stand in front of the door on the south side.	speech
+1E:128	Open the door with telepathy, and take what they call the 'Sealing Orb.'	speech
+1E:129	You'll be able to use telepathy once you're in front of the door.	speech
+1E:129	Take the orb downstairs. It will disable the traps, so you can reach Susano Oh!	speech
+1E:130	Thank you so much!	speech
+1E:154	As long as Lord Susano Oh of the Sea reigns, you shall not pass! Die!	speech
+1F:006	champion of justice	speech
+1F:034	PK Bomb.	bold
+1F:036	Gasoline Town,	bold
+1F:036	the PK Bomb is in the ruins	bold
+1F:037	PK Bomb	bold
+1F:038	PK Bomb	bold
+1F:048	PK... Bomb	bold
+1F:062	ritual	bold
+1F:073	ritual.	bold
+1F:077	key	bold
+1F:079	ritual	bold
+1F:084	ritual	bold
+1F:094	ritual	bold
+1F:095	Aaagh!	speech
+1F:095	Heh heh heh! Susa! We've finally caught you.	speech
+1F:099	ritual.	bold
+1F:106	ritual	bold
+1F:128	Susa, I think I can open the door.	speech
+1F:138	Tech City	bold
+1F:139	Tech City	bold
+1F:144	Computer, warp 5.	speech
+1F:149	Plains Town.	bold
+20:002	crude oil	bold
+20:006	crude oil,	bold
+20:007	crude oil.	bold
+20:008	crude oil	bold
+20:008	Tech City.	bold
+20:012	Demon Beast Swamp	bold
+20:016	Demon Beast Swamp	bold
+20:017	Gasoline Town	bold
+20:020	Demon Beast Swamp	bold
+20:021	sightseeing flight	bold
+20:033	Sightseeing flights are suspended. Anyone who wants to fly, come to the island.	speech
+20:040	Sword of Power	bold
+20:044	Oxygen Tank	bold
+20:063	Shingo Susa,	bold
+20:066	Kusanagi Sword	bold
+20:068	Helm of Dreams	bold
+20:068	Mountain Village	bold
+20:069	Silver Helm.	bold
+20:069	Village of Hope	bold
+20:072	Mountain Castle	bold
+20:076	Mountain Castle	bold
+20:081	Susano Oh.	bold
+20:084	Yamata-no-Orochi	bold
+20:086	Yamata-no-Orochi	bold
+20:088	Ama-no-Iwato,	bold

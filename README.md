@@ -16,8 +16,8 @@ QoL fixes are press to complete for text boxes, optional for battle text (enable
 
 Title text and two signs in kanji have been re-drawn (badly) by a human.
 
-There's a nasty bug in the original game: just don't buy more than one Tape Recorder or you won't be able to reach
-the ending.
+***There's a nasty bug in the original game: just don't buy more than one Tape Recorder or you won't be able to reach
+the ending.***
 
 Repo includes vibed notes on unused text.
 
